@@ -11,7 +11,7 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
     <header className="bg-black text-white p-4 flex items-center justify-between">
       <div className="flex items-center">
     <img 
-          src="https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png" 
+          src="https://i.imgur.com/K4cnSqn.png" 
           alt="Volleyball" 
           className="w-32 sm:w-40 md:w-48 lg:w-56 xl:w-64 h-auto flex item-center space-x-4"></img>
       </div>
