@@ -15,7 +15,7 @@ export const characters: Character[] = [
   {
     id: 2,
     name: "Tobio Kageyama",
-    image: "https://i.imgur.com/HfFmTLd.jpg",
+    image: "https://i.pinimg.com/originals/dd/a0/12/dda012dc2339e549d622b6b53ceb8e78.png",
     team: "Karasuno",
     position: "Setter",
     number: 9,
@@ -25,7 +25,7 @@ export const characters: Character[] = [
   {
     id: 3,
     name: "Kei Tsukishima",
-    image: "https://i.imgur.com/0DIwCx4.jpg",
+    image: "https://i.pinimg.com/736x/dd/7d/21/dd7d21ea1b5f752bfb7cd00cc0853e9b.jpg",
     team: "Karasuno",
     position: "Middle Blocker",
     number: 11,
@@ -35,7 +35,7 @@ export const characters: Character[] = [
   {
     id: 4,
     name: "Tadashi Yamaguchi",
-    image: "https://i.imgur.com/gEZgU2u.jpg",
+    image: "https://static.wikia.nocookie.net/battle-saga-fan-fiction-series/images/b/b8/Tadashi_Yamaguchi.png/revision/latest?cb=20201021185111",
     team: "Karasuno",
     position: "Pinch Server",
     number: 12,
@@ -45,7 +45,7 @@ export const characters: Character[] = [
   {
     id: 5,
     name: "Daichi Sawamura",
-    image: "https://i.imgur.com/sfvP5FI.jpg",
+    image: "https://64.media.tumblr.com/2b7b5d1d691955746a0b0cc16363614c/tumblr_inline_nyjehvuxEB1s824io_500.png",
     team: "Karasuno",
     position: "Outside Hitter",
     number: 1,
@@ -55,7 +55,7 @@ export const characters: Character[] = [
   {
     id: 6,
     name: "Koshi Sugawara",
-    image: "https://i.imgur.com/K8fqsP5.jpg",
+    image: "https://cdn.ipetitions.com/user-images/petitions/let-sugawara-koushi-play/4APQmOpSzmS27pmJxjgI_Screenshot+2015-12-05+19.35.06+(2).png",
     team: "Karasuno",
     position: "Setter",
     number: 2,
@@ -65,7 +65,7 @@ export const characters: Character[] = [
   {
     id: 7,
     name: "Asahi Azumane",
-    image: "https://i.imgur.com/OsRXBMV.jpg",
+    image: "https://images.adagio.com/images2/custom_blends/170837.jpg",
     team: "Karasuno",
     position: "Wing Spiker",
     number: 3,
