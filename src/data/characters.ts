@@ -35,7 +35,7 @@ export const characters: Character[] = [
   {
     id: 4,
     name: "Tadashi Yamaguchi",
-    image: "https://static.wikia.nocookie.net/battle-saga-fan-fiction-series/images/b/b8/Tadashi_Yamaguchi.png/revision/latest?cb=20201021185111",
+    image: "https://i.imgur.com/1tx82iv.jpeg",
     team: "Karasuno",
     position: "Pinch Server",
     number: 12,
@@ -75,7 +75,7 @@ export const characters: Character[] = [
   {
     id: 8,
     name: "Yu Nishinoya",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/7/73/Y%C5%AB_Nishinoya.PNG/revision/latest?cb=20140614115959",
+    image: "https://i.imgur.com/e6frzxI.jpeg",
     team: "Karasuno",
     position: "Libero",
     number: 4,
@@ -85,7 +85,7 @@ export const characters: Character[] = [
   {
     id: 9,
     name: "Ryunosuke Tanaka",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest?cb=20201016204806",
+    image: "https://i.imgur.com/quMTtWq.jpeg",
     team: "Karasuno",
     position: "Wing Spiker",
     number: 5,
@@ -95,7 +95,7 @@ export const characters: Character[] = [
   {
     id: 10,
     name: "Chikara Ennoshita",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/3/33/Ennoshita.png/revision/latest?cb=20140912052040",
+    image: "https://i.pinimg.com/736x/18/f3/70/18f3704892800427146bab3a27159dcd.jpg",
     team: "Karasuno",
     position: "Wing Spiker",
     number: 6,
@@ -105,7 +105,7 @@ export const characters: Character[] = [
   {
     id: 11,
     name: "Hisashi Kinoshita",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/6/6e/Kinoshita_s4-e5-1.png/revision/latest?cb=20200211081427",
+    image: "https://i.pinimg.com/736x/79/79/94/797994c25af6e9e372b14618b66fcdd0.jpg",
     team: "Karasuno",
     position: "Wing Spiker",
     number: 7,
@@ -115,7 +115,7 @@ export const characters: Character[] = [
   {
     id: 12,
     name: "Kazuhito Narita",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/5/5e/Narita3.png/revision/latest/scale-to-width-down/1920?cb=20170514213246",
+    image: "https://i.pinimg.com/736x/e5/1c/c8/e51cc80e851de1b51d80d43fc4e86c2b.jpg",
     team: "Karasuno",
     position: "Middle Blocker",
     number: 8,
@@ -125,7 +125,7 @@ export const characters: Character[] = [
   {
     id: 13,
     name: "Keishin Ukai",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/c/cd/Ukai_Sensei_S4.png/revision/latest?cb=20200114055230&path-prefix=es",
+    image: "https://i.pinimg.com/736x/8e/c9/03/8ec9035dc8a5a56ff088ccfacc71258c.jpg",
     team: "Karasuno",
     position: "Coach",
     number: null,
@@ -145,7 +145,7 @@ export const characters: Character[] = [
   {
     id: 15,
     name: "Kiyoko Shimizu",
-    image: "https://preview.redd.it/1y2gz6qpgjwc1.png?auto=webp&s=5259f1fef16a3771e82c438b17a211ec0f50751d",
+    image: "https://i.pinimg.com/474x/3d/5b/62/3d5b62d0eb61e3de558847521a2cfeba.jpg",
     team: "Karasuno",
     position: "Manager",
     number: null,
@@ -155,7 +155,7 @@ export const characters: Character[] = [
   {
     id: 16,
     name: "Hitoka Yachi",
-    image: "https://static.wikia.nocookie.net/haikyu/images/3/3a/Hitoka_Yachi_anime.png/revision/latest?cb=20241020172427&path-prefix=ca",
+    image: "https://i.pinimg.com/736x/ba/8e/9b/ba8e9b3c9cf5c53a3eb45cc45708ab32.jpg",
     team: "Karasuno",
     position: "Manager",
     number: null,
@@ -165,7 +165,7 @@ export const characters: Character[] = [
   {
     id: 17,
     name: "Toru Oikawa",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/2/26/Oikawa_coqueteando.png/revision/latest?cb=20160216034133&path-prefix=es",
+    image: "https://wallpapers.com/images/featured/toru-oikawa-7d2oct8syz9j60i6.jpg",
     team: "Aoba Johsai",
     position: "Setter",
     number: 1,
@@ -175,7 +175,7 @@ export const characters: Character[] = [
   {
     id: 18,
     name: "Hajime Iwaizumi",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/0/0b/IwaizumiHajime1.png/revision/latest?cb=20160214131740&path-prefix=es",
+    image: "https://i.pinimg.com/736x/a7/90/a3/a790a3d896d27c3e5049193b04cb4049.jpg",
     team: "Aoba Johsai",
     position: "Wing Spiker",
     number: 4,
@@ -185,7 +185,7 @@ export const characters: Character[] = [
   {
     id: 19,
     name: "Takahiro Hanamaki",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/1/1b/Hanamaki_s2-e22-1.png/revision/latest?cb=20200401175508",
+    image: "https://i.pinimg.com/736x/34/e4/81/34e481b31e7b054419188d921f4fefaa.jpg",
     team: "Aoba Johsai",
     position: "Wing Spiker",
     number: 3,
@@ -195,7 +195,7 @@ export const characters: Character[] = [
   {
     id: 20,
     name: "Issei Matsukawa",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/4/46/IsseiMatsukawa1.png/revision/latest?cb=20160214122434&path-prefix=es",
+    image: "https://i.pinimg.com/736x/07/21/dc/0721dc17a1c8acdc3eed769a57d2a5b7.jpg",
     team: "Aoba Johsai",
     position: "Middle Blocker",
     number: 2,
@@ -205,7 +205,7 @@ export const characters: Character[] = [
   {
     id: 21,
     name: "Kentaro Kyotani",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/b/b5/Kyoutani1.png/revision/latest?cb=20170409011611",
+    image: "https://i.pinimg.com/736x/32/18/35/3218357e10118c4f434ed4ad970d45b0.jpg",
     team: "Aoba Johsai",
     position: "Wing Spiker",
     number: 16,
@@ -225,7 +225,7 @@ export const characters: Character[] = [
   {
     id: 23,
     name: "Shigeru Yahaba",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/e/ee/Yahaba1.png/revision/latest?cb=20170409011546",
+    image: "https://i.pinimg.com/736x/9f/30/d1/9f30d1fbea1517a4ebc324b26d501e29.jpg",
     team: "Aoba Johsai",
     position: "Setter",
     number: 6,
@@ -235,7 +235,7 @@ export const characters: Character[] = [
   {
     id: 24,
     name: "Wakatoshi Ushijima",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/f/f1/Ushijima_Wakatoshi.jpg/revision/latest?cb=20200707013040&path-prefix=es",
+    image: "https://i.pinimg.com/474x/cf/04/d6/cf04d6e2ef18004356d90097c050aa2f.jpg",
     team: "Shiratorizawa",
     position: "Wing Spiker",
     number: 1,
@@ -245,7 +245,7 @@ export const characters: Character[] = [
   {
     id: 25,
     name: "Satori Tendo",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/0/01/Satori_Tendou.png/revision/latest?cb=20200707015819&path-prefix=es",
+    image: "https://i.pinimg.com/736x/cc/09/61/cc09613235ec9a71e9c7f86d4b4b2a3a.jpg",
     team: "Shiratorizawa",
     position: "Middle Blocker",
     number: 5,
@@ -255,7 +255,7 @@ export const characters: Character[] = [
   {
     id: 26,
     name: "Eita Semi",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/1/11/Eita_Semi_Anime.png/revision/latest?cb=20170113211815",
+    image: "https://i.pinimg.com/736x/38/b7/67/38b767ef0b24a64f4f75128c6836e6e3.jpg",
     team: "Shiratorizawa",
     position: "Setter",
     number: 3,
@@ -275,7 +275,7 @@ export const characters: Character[] = [
   {
     id: 28,
     name: "Kenjiro Shirabu",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73hUxCYhM_XlOg-IuiQu3JV6Kuwq9quWL4g&s",
+    image: "https://i.pinimg.com/736x/c0/3f/56/c03f561616974b2a4a28265e6027f3ea.jpg",
     team: "Shiratorizawa",
     position: "Setter",
     number: 10,
@@ -305,7 +305,7 @@ export const characters: Character[] = [
   {
     id: 31,
     name: "Kenma Kozume",
-    image: "https://static.wikia.nocookie.net/haikyu/images/f/f7/Kenma_Kozume_anime.png/revision/latest?cb=20240526194025&path-prefix=ca",
+    image: "https://i.pinimg.com/736x/7c/90/f9/7c90f9b69517bacb2207777f84a9985d.jpg",
     team: "Nekoma",
     position: "Setter",
     number: 5,
@@ -325,7 +325,7 @@ export const characters: Character[] = [
   {
     id: 33,
     name: "Koutarou Bokuto",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/8/8d/Bokuto_OVA_4-4.png/revision/latest?cb=20200212135513",
+    image: "https://i.pinimg.com/736x/18/6c/98/186c98b49f06b65d7d3c9fd3c97daab0.jpg",
     team: "Fukurodani",
     position: "Wing Spiker",
     number: 4,
@@ -335,7 +335,7 @@ export const characters: Character[] = [
   {
     id: 34,
     name: "Keiji Akaashi",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/f/fe/Akaashi_s4-e12-2.png/revision/latest?cb=20200415182018",
+    image: "https://i.pinimg.com/736x/ce/33/00/ce33000dd3743f5bf7061b1205bc8b9b.jpg",
     team: "Fukurodani",
     position: "Setter",
     number: 5,
@@ -345,7 +345,7 @@ export const characters: Character[] = [
   {
     id: 35,
     name: "Lev Haiba",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/1/19/Lev_OVA_4-3.png/revision/latest?cb=20200706214159&path-prefix=es",
+    image: "https://i.pinimg.com/736x/db/88/a4/db88a417ea95cf12c336386c32585cf7.jpg",
     team: "Nekoma",
     position: "Middle Blocker",
     number: 11,
@@ -355,7 +355,7 @@ export const characters: Character[] = [
   {
     id: 36,
     name: "Morisuke Yaku",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/d/da/%28Morisuke_Yaku_OVA_Trailer%29.png/revision/latest?cb=20190928213505",
+    image: "https://i.pinimg.com/474x/16/27/0d/16270d371674e6b55512fcf04391d30d.jpg",
     team: "Nekoma",
     position: "Libero",
     number: 3,
@@ -375,7 +375,7 @@ export const characters: Character[] = [
   {
     id: 38,
     name: "Taketora Yamamoto",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/0/06/YamamotoTaketora.png/revision/latest?cb=20140616142635",
+    image: "https://i.pinimg.com/736x/d2/b5/6a/d2b56a912132a3f790f472b453885db7.jpg",
     team: "Nekoma",
     position: "Wing Spiker",
     number: 4,
@@ -385,7 +385,7 @@ export const characters: Character[] = [
   {
     id: 39,
     name: "Sou Inuoka",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/a/ae/Inuoka_Season_1_Episode_13.png/revision/latest?cb=20221027220417",
+    image: "https://i.pinimg.com/736x/06/66/0d/06660dfe26d8baa67975ea80b1a507dc.jpg",
     team: "Nekoma",
     position: "Middle Blocker",
     number: 7,
@@ -395,7 +395,7 @@ export const characters: Character[] = [
   {
     id: 40,
     name: "Yuuki Shibayama",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/d/db/Shibayama_OVA_5-3.png/revision/latest?cb=20200705082036",
+    image: "https://i.pinimg.com/736x/0b/9d/74/0b9d7418d565785ca6ec6f4e1f278ae0.jpg",
     team: "Nekoma",
     position: "Libero",
     number: 12,
