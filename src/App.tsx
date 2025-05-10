@@ -81,14 +81,14 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col">
+    <div className="min-h-screen bg-orange-600 flex flex-col">
       <Header 
         onOpenTutorial={() => toggleTutorial(true)} 
         onOpenStats={() => setShowStats(true)}
       />
       
       <main className="flex-1 container mx-auto max-w-2xl px-4 py-6">
-        <div className="bg-white rounded-lg shadow-md p-4 mb-4">
+        <div className="bg-gray-800 p-4 mb-4">
           <div className="mb-4">
             <CharacterSearch 
               characters={characters} 
