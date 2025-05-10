@@ -13,7 +13,7 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
     
       </div>
 
-      
+<h1 className="text-2xl md:text-3xl font-bold text-center flex-grow text-orange-500">¡Guess the Hakyuu character!</h1>      
       
       <div className="flex items-center space-x-4">
         <button 
