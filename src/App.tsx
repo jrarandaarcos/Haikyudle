@@ -85,7 +85,7 @@ function App() {
       <img 
           src="https://i.imgur.com/P2f49T1.png" 
           alt="Volleyball" 
-          className="w-full h-auto"
+          className="w-full h-auto"></img>
       <Header 
         onOpenTutorial={() => toggleTutorial(true)} 
         onOpenStats={() => setShowStats(true)}
