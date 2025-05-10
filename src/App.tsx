@@ -82,10 +82,6 @@ function App() {
 
   return (
     <div className="min-h-screen bg-orange-600 flex flex-col">
-      <img 
-          src="https://i.imgur.com/P2f49T1.png" 
-          alt="Volleyball" 
-          className="w-full h-auto"></img>
       <Header 
         onOpenTutorial={() => toggleTutorial(true)} 
         onOpenStats={() => setShowStats(true)}
@@ -100,7 +96,10 @@ function App() {
               disabled={state.gameOver} 
             />
           </div>
-          
+          <img 
+          src="https://i.imgur.com/P2f49T1.png" 
+          alt="Volleyball" 
+          className="w-full h-auto"></img>
           <GuessGrid 
             guesses={state.guesses} 
             maxGuesses={state.maxGuesses} 
