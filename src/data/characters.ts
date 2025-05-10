@@ -5,7 +5,7 @@ export const characters: Character[] = [
   {
     id: 1,
     name: "Shoyo Hinata",
-    image: "https://static.wikia.nocookie.net/haikyuu/images/8/8c/Shoyo_Competitivo.png/revision/latest/scale-to-width-down/1000?cb=20201031221416&path-prefix=es",
+    image: "https://i.pinimg.com/736x/a6/27/2c/a6272c7f30aad267718f24aa0f7bb321.jpg",
     team: "Karasuno",
     position: "Middle Blocker",
     number: 10,
