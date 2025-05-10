@@ -70,7 +70,7 @@ const CharacterSearch: React.FC<CharacterSearchProps> = ({
         <input
           ref={inputRef}
           type="text"
-          className={`block w-full pl-10 pr-4 py-3 border ${disabled ? 'bg-gray-100' : 'bg-white'} border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent`}
+          className={`block w-full pl-10 pr-4 py-3 border ${disabled ? 'bg-gray-800' : 'bg-white'} border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent`}
           placeholder="Search for a character..."
           value={searchTerm}
           onChange={handleInputChange}
