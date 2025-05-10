@@ -11,7 +11,7 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
     <header className="bg-black text-white p-4 flex items-center justify-between">
       <div className="flex items-center">
         <img 
-          src="https://i.imgur.com/24A3fNu.png" 
+          src="https://image.tmdb.org/t/p/original/4IcVSKtK0e5RIIpFnD29xU0P5mI.png" 
           alt="Volleyball" 
           className="w-10 h-10 mr-3"
         />
