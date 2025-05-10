@@ -10,7 +10,10 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
   return (
     <header className="bg-black text-white p-4 flex items-center justify-between">
       <div className="flex items-center">
-    
+    <img 
+          src="https://logos-world.net/wp-content/uploads/2021/08/Haikyuu-Logo.png" 
+          alt="Volleyball" 
+          className="w-full h-auto flex item-center space-x-4"
       </div>
 
 <h1 className="text-2xl md:text-3xl font-bold text-center flex-grow text-orange-500">¡Guess the Hakyuu character!</h1>      
