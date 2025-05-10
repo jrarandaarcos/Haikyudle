@@ -16,9 +16,6 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
           className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 lg:w-20 lg:h-20 xl:w-24 xl:h-24 mr-3"
         />
       </div>
-    </header>
-  );
-}
 
       
       
