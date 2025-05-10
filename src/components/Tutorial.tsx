@@ -41,28 +41,28 @@ const Tutorial: React.FC<TutorialProps> = ({ isOpen, onClose }) => {
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
-                <Check size={16} className="text-white" />
+                <Check size={16} className="text-black" />
               </div>
               <p><span className="font-bold">Yellow</span> means the attribute is close but not exact.</p>
             </div>
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
-                <ChevronUp size={16} className="text-white" />
+                <ChevronUp size={16} className="text-black" />
               </div>
               <p>For height, an <span className="font-bold">up arrow</span> means the target character is taller.</p>
             </div>
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
-                <ChevronDown size={16} className="text-white" />
+                <ChevronDown size={16} className="text-black" />
               </div>
               <p>For height, a <span className="font-bold">down arrow</span> means the target character is shorter.</p>
             </div>
             
             <div className="bg-red-100 p-2 rounded flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-red-500 rounded-full mr-2">
-                <X size={16} className="text-white" />
+                <X size={16} className="text-black" />
               </div>
               <p><span className="font-bold">Red</span> means the attribute is completely wrong.</p>
             </div>
@@ -74,7 +74,7 @@ const Tutorial: React.FC<TutorialProps> = ({ isOpen, onClose }) => {
           
           <button 
             onClick={onClose}
-            className="w-full bg-orange-500 hover:bg-orange-600 text-white py-2 rounded-md font-semibold transition"
+            className="w-full bg-orange-500 hover:bg-orange-600 text-black py-2 rounded-md font-semibold transition"
           >
             Let's Play!
           </button>
