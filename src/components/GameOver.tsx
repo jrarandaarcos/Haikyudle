@@ -18,7 +18,7 @@ const GameOver: React.FC<GameOverProps> = ({
   nextGameTime
 }) => {
   return (
-    <div className="mt-4 p-4 bg-gray-800 rounded-lg shadow-lg animate-fadeIn">
+    <div className="mt-4 p-4 bg-gray-900 rounded-lg shadow-lg animate-fadeIn">
       <h2 className="text-xl font-bold text-center mb-4">
         {won ? '🎉 You won! 🎉' : '😔 Better luck next time!'}
       </h2>
