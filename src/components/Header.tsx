@@ -11,13 +11,12 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
     <header className="bg-black text-white p-4 flex items-center justify-between">
       <div className="flex items-center">
         <img 
-          src="https://i.imgur.com/JIQ79Px.png" 
+          src="https://i.imgur.com/24A3fNu.png" 
           alt="Volleyball" 
           className="w-10 h-10 mr-3"
         />
       </div>
       
-      <h1 className="text-2xl md:text-3xl font-bold text-center flex-grow text-orange-500">HAIKYUDLE</h1>
       
       <div className="flex items-center space-x-4">
         <button 
