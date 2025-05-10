@@ -76,7 +76,7 @@ function App() {
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
           backgroundImage: "url('https://images4.alphacoders.com/831/831075.png')",
-          filter: 'brightness(0.4)'
+          filter: 'brightness(0.7)'
         }}
       />
 
