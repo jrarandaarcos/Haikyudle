@@ -102,10 +102,7 @@ function App() {
             maxGuesses={state.maxGuesses} 
           />
         </div>
-        <img 
-          src="https://i.imgur.com/P2f49T1.png" 
-          alt="Volleyball" 
-          className="w-full h-auto"></img> 
+        
         {state.gameOver && state.targetCharacter && (
           <GameOver 
             won={state.won} 
