@@ -70,7 +70,7 @@ const CharacterSearch: React.FC<CharacterSearchProps> = ({
         <input
           ref={inputRef}
           type="text"
-          className={`block w-full pl-10 pr-4 py-3 border ${disabled ? 'bg-gray-800' : 'bg-white'} border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent`}
+          className={`block w-full pl-10 pr-4 py-3 border ${disabled ? 'bg-gray-800' : 'bg-black'} border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent`}
           placeholder="Search for a character..."
           value={searchTerm}
           onChange={handleInputChange}
@@ -82,7 +82,7 @@ const CharacterSearch: React.FC<CharacterSearchProps> = ({
       {isDropdownOpen && (
         <div 
           ref={dropdownRef}
-          className="absolute z-10 w-full mt-1 bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-auto"
+          className="absolute z-10 w-full mt-1 bg-black border border-gray-300 rounded-md shadow-lg max-h-60 overflow-auto"
         >
           {filteredCharacters.map(character => (
             <div
