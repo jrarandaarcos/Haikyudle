@@ -81,7 +81,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-orange-600 flex flex-col">
+    <div className="min-h-screen bg-gray-800 flex flex-col">
       <Header 
         onOpenTutorial={() => toggleTutorial(true)} 
         onOpenStats={() => setShowStats(true)}
