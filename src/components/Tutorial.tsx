@@ -36,35 +36,35 @@ const Tutorial: React.FC<TutorialProps> = ({ isOpen, onClose }) => {
               <div className="flex items-center justify-center w-6 h-6 bg-green-500 rounded-full mr-2">
                 <Check size={16} className="text-white" />
               </div>
-              <p><span className="font-bold">Green</span> means the attribute is correct!</p>
+              <p className="text-black"><span className="font-bold">Green</span> means the attribute is correct!</p>
             </div>
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
                 <Check size={16} className="text-black" />
               </div>
-              <p><span className="font-bold">Yellow</span> means the attribute is close but not exact.</p>
+              <p className="text-black"><span className="font-bold">Yellow</span> means the attribute is close but not exact.</p>
             </div>
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
                 <ChevronUp size={16} className="text-black" />
               </div>
-              <p>For height, an <span className="font-bold">up arrow</span> means the target character is taller.</p>
+              <p className="text-black">For height, an <span className="font-bold">up arrow</span> means the target character is taller.</p>
             </div>
             
             <div className="bg-yellow-100 p-2 rounded mb-2 flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-yellow-500 rounded-full mr-2">
                 <ChevronDown size={16} className="text-black" />
               </div>
-              <p>For height, a <span className="font-bold">down arrow</span> means the target character is shorter.</p>
+              <p className="text-black">For height, a <span className="font-bold">down arrow</span> means the target character is shorter.</p>
             </div>
             
             <div className="bg-red-100 p-2 rounded flex items-center">
               <div className="flex items-center justify-center w-6 h-6 bg-red-500 rounded-full mr-2">
                 <X size={16} className="text-black" />
               </div>
-              <p><span className="font-bold">Red</span> means the attribute is completely wrong.</p>
+              <p className="text-black"><span className="font-bold">Red</span> means the attribute is completely wrong.</p>
             </div>
           </div>
 
@@ -85,3 +85,4 @@ const Tutorial: React.FC<TutorialProps> = ({ isOpen, onClose }) => {
 };
 
 export default Tutorial;
+
