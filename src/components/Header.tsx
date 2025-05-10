@@ -13,9 +13,13 @@ const Header: React.FC<HeaderProps> = ({ onOpenTutorial, onOpenStats }) => {
         <img 
           src="https://image.tmdb.org/t/p/original/4IcVSKtK0e5RIIpFnD29xU0P5mI.png" 
           alt="Volleyball" 
-          className="w-10 h-10 mr-3"
+          className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 lg:w-20 lg:h-20 xl:w-24 xl:h-24 mr-3"
         />
       </div>
+    </header>
+  );
+}
+
       
       
       <div className="flex items-center space-x-4">
